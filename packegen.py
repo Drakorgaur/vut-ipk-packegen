@@ -123,7 +123,7 @@ def main():
 
     while True:
         nb.send_packet(mode)
-        time.sleep(timeout)
+
 
 if __name__ == "__main__":
     main()
